@@ -1,0 +1,10 @@
+Roti : 8 Rs per piece
+Chicken Tikka : 140 Rs full plate
+Paneer Tikka : 70 Rs full plate
+Butter Chicken : 180 Rs full plate
+Chilli Paneer : 150 Rs per plate
+Khadai Paneer : 140 Rs per plate
+Mix Veg : 100 Rs per plate
+Soup : 80 Rs per bowl
+Burger : 30 Rs per item 
+Pizza : 249 Rs Medium Size

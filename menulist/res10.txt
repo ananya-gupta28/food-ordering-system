@@ -1,0 +1,14 @@
+Veg Fried Rice               170
+Veg Hakka Noodles            170
+Veg Schezwan Rice            180
+Veg Singapuri Noodles        180
+Veg Schezwan Noodles         170
+Mushroom Fried Rice          180
+Veg Singapuri Fried Rice     190
+Mushroom Manchurian Gravy    180
+Veg Manchurian Gravy         180
+Paneer Manchurian Gravy      200
+Paneer Chilly Gravy          200
+Veg American Chopsuey        180
+Veg Chowmain                 180
+Veg Tripple Schezwan Rice    220
